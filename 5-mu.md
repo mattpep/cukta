@@ -35,8 +35,7 @@ ni'o
 ## se vaivla
 
 * zo e
-* zo je
-* zo .ije
-
+* e zo je
+* e lu .ije 
 
 vau
