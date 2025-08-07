@@ -30,6 +30,7 @@ ni'o
 | .i le mlatu cu cmalu .ije le prenu cu barda | ![](pixra/mlatu-12.jpg) |
 | .i le prenu cu cmalu .ije le bolci cu barda | ![](pixra/bolci-12.jpg) |
 
+ni'o
 
 ## se vaivla
 
