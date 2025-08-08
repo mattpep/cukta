@@ -9,3 +9,6 @@
 * 3 - [ci](3-ci.md)
 * 4 - [vo](4-vo.md)
 * 5 - [mu](5-mu.md)
+* 6 - [xa](6-xa.md)
+* 7 - [ze](7-ze.md)
+* 8 - [bi](8-bi.md)
