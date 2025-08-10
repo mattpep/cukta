@@ -2,9 +2,9 @@
 
 | .y.                             | .y.                         |
 |---------------------------------|-----------------------------|
-| le mlatu e le prenu cu cmalu    | ![cmalu](pixra/cmalu-1.jpg) |
-| .i le zarce e le prenu cu cmalu | ![cmalu](pixra/cmalu-2.jpg) |
-| .i le prenu e le bolci cu cmalu | ![cmalu](pixra/cmalu-3.jpg) |
+| le mlatu e le remna cu cmalu    | ![cmalu](pixra/cmalu-1.jpg) |
+| .i le zarce e le remna cu cmalu | ![cmalu](pixra/cmalu-2.jpg) |
+| .i le remna e le bolci cu cmalu | ![cmalu](pixra/cmalu-3.jpg) |
 | .i le mlatu e le bolci cu cmalu | ![cmalu](pixra/cmalu-4.jpg) |
 
 
@@ -23,12 +23,12 @@ ni'o
 
 | .y.                                         | .y.                     |
 |---------------------------------------------|-------------------------|
-| le mlatu cu cmalu .ije le prenu cu cmalu    | ![](pixra/cmalu-1.jpg)  |
-| .i le zarce cu cmalu .ije le prenu cu cmalu | ![](pixra/cmalu-2.jpg)  |
-| .i le prenu cu cmalu .ije le bolci cu cmalu | ![](pixra/cmalu-3.jpg)  |
+| le mlatu cu cmalu .ije le remna cu cmalu    | ![](pixra/cmalu-1.jpg)  |
+| .i le zarce cu cmalu .ije le remna cu cmalu | ![](pixra/cmalu-2.jpg)  |
+| .i le remna cu cmalu .ije le bolci cu cmalu | ![](pixra/cmalu-3.jpg)  |
 | .i le mlatu cu cmalu .ije le bolci cu cmalu | ![](pixra/cmalu-4.jpg)  |
-| .i le mlatu cu cmalu .ije le prenu cu barda | ![](pixra/mlatu-12.jpg) |
-| .i le prenu cu cmalu .ije le bolci cu barda | ![](pixra/bolci-12.jpg) |
+| .i le mlatu cu cmalu .ije le remna cu barda | ![](pixra/mlatu-12.jpg) |
+| .i le remna cu cmalu .ije le bolci cu barda | ![](pixra/bolci-12.jpg) |
 
 ni'o
 

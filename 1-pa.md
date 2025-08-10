@@ -6,10 +6,10 @@
 | .i mlatu  | ![mlatu](pixra/mlatu-2.jpg)    |
 | .i mlatu  | ![mlatu](pixra/mlatu-3.jpg)    |
 | .i mlatu  | ![mlatu](pixra/mlatu-4.jpg)    |
-| .i prenu  | ![prenu](pixra/prenu-1.jpg)    |
-| .i prenu  | ![prenu](pixra/prenu-2.jpg)    |
-| .i prenu  | ![prenu](pixra/prenu-5.jpg)    |
-| .i prenu  | ![prenu](pixra/prenu-4.jpg)    |
+| .i remna  | ![remna](pixra/remna-1.jpg)    |
+| .i remna  | ![remna](pixra/remna-2.jpg)    |
+| .i remna  | ![remna](pixra/remna-5.jpg)    |
+| .i remna  | ![remna](pixra/remna-4.jpg)    |
 | .i karce  | ![zarce](pixra/karce-1.jpg)    |
 | .i karce  | ![zarce](pixra/karce-2.jpg)    |
 | .i karce  | ![zarce](pixra/karce-3.jpg)    |
@@ -29,7 +29,7 @@ ni'o
 ## se vaivla
 
 * zo mlatu
-* e zo prenu
+* e zo remna
 * e zo zdani
 * e zo karce
 * e zo bolci
