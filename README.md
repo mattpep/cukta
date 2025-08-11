@@ -1,4 +1,4 @@
-# cu do djica cilre la lojban.
+# xu do djica cilre la lojban.
 * Do you want to learn Lojban?
 * Ĉu vi volas lerni Loĵbanon?
 * Veux tu apprendre le lojban?
