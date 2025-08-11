@@ -26,16 +26,16 @@ ni'o
 | .i ma cu barda .i le bolci cu go'i             | ![xunre](pixra/bolci-8.jpg)     |
 | .i ma cu xunre .i le bolci cu xunre            | ![xunre](pixra/bolci-8.jpg)     |
 | .i ma cu xunre .i le bolci cu go'i             | ![xunre](pixra/bolci-8.jpg)     |
-| .i ma cu cmalu .i le prenu cu cmalu            | ![xunre](pixra/bolci-8.jpg)     |
-| .i ma cu cmalu .i le prenu cu go'i             | ![xunre](pixra/cmalu-2.jpg)     |
+| .i ma cu cmalu .i le remna cu cmalu            | ![xunre](pixra/bolci-8.jpg)     |
+| .i ma cu cmalu .i le remna cu go'i             | ![xunre](pixra/cmalu-2.jpg)     |
 | .i ma cu cmalu .i le karce cu cmalu            | ![xunre](pixra/cmalu-2.jpg)     |
 | .i ma cu cmalu .i le karce cu go'i             | ![xunre](pixra/cmalu-2.jpg)     |
-| .i ma cu cmalu .i le karce e le prenu cu cmalu | ![xunre](pixra/cmalu-2.jpg)     |
-| .i ma cu cmalu .i le karce cu cmalu | ![xunre](pixra/cmalu-2.jpg)     |
-| .i ma cu cmalu .i le karce cu go'i | ![xunre](pixra/cmalu-2.jpg)     |
-| .i ma cu cmalu .i le karce e le prenu cu go'i  | ![xunre](pixra/cmalu-2.jpg)     |
-| .i ma cu cmalu .i le mlatu e le prenu cu cmalu | ![](pixra/cmalu-1.jpg)          |
-| .i ma cu cmalu .i le mlatu e le prenu cu go'i | ![](pixra/cmalu-1.jpg)          |
+| .i ma cu cmalu .i le karce e le remna cu cmalu | ![xunre](pixra/cmalu-2.jpg)     |
+| .i ma cu cmalu .i le karce cu cmalu            | ![xunre](pixra/cmalu-2.jpg)     |
+| .i ma cu cmalu .i le karce cu go'i             | ![xunre](pixra/cmalu-2.jpg)     |
+| .i ma cu cmalu .i le karce e le remna cu go'i  | ![xunre](pixra/cmalu-2.jpg)     |
+| .i ma cu cmalu .i le mlatu e le remna cu cmalu | ![](pixra/cmalu-1.jpg)          |
+| .i ma cu cmalu .i le mlatu e le remna cu go'i  | ![](pixra/cmalu-1.jpg)          |
 
 
 ni'o
