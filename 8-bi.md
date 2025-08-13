@@ -14,17 +14,17 @@
 
 ni'o
 
-zo mlatu cu gismu .i zo prenu cu gismu .i zo karce cu gismu .i zo zdani cu
+zo mlatu cu gismu .i zo remna cu gismu .i zo karce cu gismu .i zo zdani cu
 gismu .i zo barda cu gismu .i zo cmalu cu gismu
 
-.i zo mlatu e zo prenu e zo karce e zo zdani e zo barda e zo cmalu e zo xekri e
+.i zo mlatu e zo remna e zo karce e zo zdani e zo barda e zo cmalu e zo xekri e
 zo narju e zo grusi e zo blabi e zo xunre e zo crino e zo blanu cu gismu
 
 .i zo gismu cu gismu .i zo cmavo cu gismu .i zo gismu cu na cmavo
 
 ni'o
 
-* lo'u le prenu cu cmalu le'u cu bridi
+* lo'u le remna cu cmalu le'u cu bridi
 * .i lo'u le mlatu cu blabi le'u cu bridi
 * .i lo'u le bolci cu blanu le'u cu bridi
 * .i lo'u le karce cu crino le'u cu bridi
